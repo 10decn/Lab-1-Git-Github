@@ -1,2 +1,1 @@
-# Lab-1-Git-Github
-Introduction repository for Machine Learning lab
+Hi! My name is Noor Mushtaq Almeer. I’m a third-year Computer Science student (junior level) and also a basketball player on my university team. Balancing academics with sports has taught me discipline, teamwork, and how to stay motivated under pressure. I’m especially interested in Machine Learning and how technology can be used in smart and creative ways to solve real-life problems. I enjoy learning new things, challenging myself both on and off the court, and growing step by step as a computer science student.
